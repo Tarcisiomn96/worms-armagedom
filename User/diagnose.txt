@@ -1,0 +1,44 @@
+Checking Winsock information 
+---------------------------- 
+Version 1.1 
+HighVersion 1.1 
+Description: WinSock 2.0 
+Max Sockets: 32767 
+Max UDP Datagram Size: 65467 
+
+General Network Settings 
+------------------------ 
+GetSystemMetrics network returns 3
+Local IP Address: 192.168.40.170 
+IPX Protocol Detected
+TCP Protocol Detected
+Proxy disabled 
+Player name: Kevynn 
+
+General System Settings 
+----------------------- 
+Memory usage 71 percent
+515308 Kb of memory in use
+147100 Kb available 
+1259016 Kb (write) possible to swapfile
+952824 Kb (read) possible from swapfile
+2097024 Kb total usermode virtual mem
+1746976 Kb available usermode virtual mem
+
+checking OS information 
+----------------------- 
+Operating System: Win NT  
+Os Version 5.1 
+Additional Os Info: Service Pack 2 
+
+checking install drive information
+--------------------------
+checking drive C
+drive label: 
+Total Disk Size: 3665032 Kb
+FreeSpace Available on disk: 2082324 Kb
+
+checking cd drive information
+--------------------------
+checking drive .
+unable to get cd drive information
